@@ -1,0 +1,28 @@
+
+body {
+    font-family: Verdana, serif;
+    font-size: 1.1em;
+    background: silver;
+    color: #2F5496;
+}
+
+h1 {
+    font-variant: all-petite-caps;
+    background: #590303;
+}
+
+a:hover {
+    background-color: blueviolet;
+    border:6px solid red;
+}
+
+.stippeltjesrand {
+    border:1px dotted;
+
+}
+
+img {
+    content:url("https://icons.veryicon.com/png/o/internet--web/elegant-linear-icon/paper-clip-3.png");
+    height: 20px;
+    width: 20px;
+}

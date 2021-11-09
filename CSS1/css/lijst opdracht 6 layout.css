@@ -1,0 +1,24 @@
+
+li.unchecked{
+    list-style: none;
+}
+
+li.unchecked::before {
+    content: '';
+    display: inline-block;
+    height: 21px;
+    width: 24px;
+    background-image: url(img/uncheckedbox1.png);
+}
+
+
+li {
+    list-style: none;
+}
+li.checked::before {
+    content: '';
+    display: inline-block;
+    height: 21px;
+    width: 24px;
+    background-image: url(img/checked4.png);
+}
