@@ -2,18 +2,18 @@
 body {
     font-family: Verdana, serif;
     font-size: 1.1em;
-    background: silver;
+    background: lightskyblue;
     color: #2F5496;
 }
 
 h1 {
     font-variant: all-petite-caps;
-    background: #590303;
+    background: limegreen;
 }
 
 a:hover {
-    background-color: blueviolet;
-    border:6px solid red;
+    background-color: lightcyan;
+    border:6px solid lightskyblue;
 }
 
 .stippeltjesrand {
