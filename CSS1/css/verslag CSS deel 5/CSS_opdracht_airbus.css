@@ -1,0 +1,124 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+
+.header {
+    background-image: url("fotos airbus/bgsky3.jpg");
+    background-repeat: no-repeat;
+    height: 150px;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
+
+#Titel {
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    color: darkblue;
+    font-family: Arial, serif;
+    margin-top: 0;
+}
+
+#Ondertitel {
+    font-size: 25px;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Arial, serif;
+    margin-top: 0;
+}
+
+#Airbus{
+    float: left;
+    padding-top: 20px;
+}
+
+
+.news {
+    float: right;
+    width: 250px;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+}
+
+.hoofding{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: 120%;
+    font-family: Arial, serif;
+}
+
+.gewone_tekst {
+    color: #666666;
+    font-size: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Arial, serif;
+}
+
+#main{
+    width: 700px;
+    margin-right: 10px
+}
+
+.introduction{
+    overflow: hidden;
+    padding-right: 40px;
+    padding-left: 20px;
+    text-align: justify;
+    font-family: Arial, serif;
+}
+
+span{
+    font-style: italic;
+    font-weight: bolder;
+    color: blue;
+}
+
+#gallery > .foto{
+    background-color: white;
+    width: 180px;
+    height: 180px;
+    border: 16px solid #999999;
+    float: left;
+    padding: 10px;
+}
+
+
+#bottom{
+    float: left;
+    background-color: #666666;
+    width: 960px;
+    height: 200px;
+}
+
+.block{
+    float: left;
+}
+
+.tekstkleur{
+    text-decoration: none;
+    color: white;
+    padding-left: 120px;
+    line-height: 2em;
+    font-family: Arial, serif;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover{
+    color: red;
+}
+
+#copyright{
+    text-align: center;
+    background-color: white;
+    color: black;
+    float: left;
+    padding-left: 25%;
+    font-family: Arial, serif;
+}
