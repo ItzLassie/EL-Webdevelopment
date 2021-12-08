@@ -1,0 +1,116 @@
+@media (min-width: 992px) {
+    main{
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        grid-gap: 20px;
+        padding: 10px;
+    }
+    .block{
+        padding:20px;
+        color: black;
+        font-size: 4em;
+        font-weight:bold;
+        text-align:center;
+    }
+    .block.block1{
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+        background-color: red;
+    }
+    .block.block2{
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        grid-row-end: 3;
+        background-color: greenyellow;
+    }
+    .block.block3{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 3;
+        grid-row-end: 4;
+        background-color: cyan;
+    }.block.block4{
+         background-color: deeppink;
+             grid-column-start: 2;
+             grid-column-end: 3;
+             grid-row-start: 3;
+             grid-row-end: 4;
+     }
+
+}
+
+@media (min-width: 772px) and (max-width: 992px) {
+    main{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        padding: 10px;
+    }
+    .block{
+        padding:20px;
+        color: black;
+        font-size: 4em;
+        font-weight:bold;
+        text-align:center;
+    }
+    .block.block1{
+        grid-row-start: 1;
+        grid-row-end: 2;
+        background-color: red;
+    }
+    .block.block2{
+        grid-row-start: 3;
+        grid-row-end: 4;
+        background-color: greenyellow;
+    }
+    .block.block3{
+        grid-row-start: 2;
+        grid-row-end: 3;
+        background-color: cyan;
+    }.block.block4{
+         background-color: deeppink;
+         grid-row-start: 4;
+         grid-row-end: 5;
+     }
+
+}
+
+@media (min-width: 320px) and (max-width: 772px) {
+    main{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        padding: 10px;
+    }
+    .block{
+        padding:20px;
+        color: black;
+        font-size: 4em;
+        font-weight:bold;
+        text-align:center;
+    }
+    .block.block1{
+        grid-row-start: 2;
+        grid-row-end: 3;
+        background-color: red;
+    }
+    .block.block2{
+        grid-row-start: 1;
+        grid-row-end: 2;
+        background-color: greenyellow;
+    }
+    .block.block3{
+        grid-row-start: 3;
+        grid-row-end: 4;
+        background-color: cyan;
+    }.block.block4{
+         background-color: deeppink;
+         grid-row-start: 4;
+         grid-row-end: 5;
+     }
+
+}
+
