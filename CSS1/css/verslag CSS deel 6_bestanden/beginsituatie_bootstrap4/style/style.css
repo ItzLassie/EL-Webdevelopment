@@ -1,0 +1,12 @@
+.light{
+    background-color: #c0b9b9;
+    border: solid cyan;
+    height: 100px;
+}
+
+.dark{
+    background-color: #8f8e8e;
+    border: solid deeppink;
+    height: 100px;
+}
+
