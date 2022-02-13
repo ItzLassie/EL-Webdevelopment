@@ -1,0 +1,38 @@
+/** Volgende CSS gaan we ze geven **/
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.body{
+    font-family: helvetica;
+}
+
+.ondertitel{
+    font-size: 18px;
+    font-weight: bold;
+    text-underline: black;
+
+}
+
+.nav{
+    display: grid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    grid-template-areas: 'area';
+}
+
+span{
+    grid-area: area;
+}
+
+.mainHeader{
+    background-image: url("headerimage.jpg");
+    height: 500px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: #8D99AE;
+    width: 100%;
+}

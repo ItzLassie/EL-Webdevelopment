@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Javascript/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,15 +27,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS1/css/verslag CSS deel 7/Grid Exercises/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LOKAALµ\OneDrive - Hogeschool VIVES\Documenten\GitHub\EL-Webdevelopment\CSS1\css\verslag CSS deel 7\Grid Exercises\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LOKAALµ\OneDrive - Hogeschool VIVES\Documenten\GitHub\EL-Webdevelopment\Javascript\Rekenmachine" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,7 +50,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638950091003</updated>
-      <workItem from="1638950092972" duration="5881000" />
+      <workItem from="1638950092972" duration="6174000" />
+      <workItem from="1639079967361" duration="84000" />
+      <workItem from="1639512387831" duration="1348000" />
+      <workItem from="1639555014254" duration="6313000" />
+      <workItem from="1642540817107" duration="92000" />
+      <workItem from="1644746207443" duration="31000" />
+      <workItem from="1644747634140" duration="236000" />
     </task>
     <servers />
   </component>
@@ -54,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
