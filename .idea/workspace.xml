@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript/index.html" afterDir="false" />
+    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/Oefening01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/Oefening03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/indexArraysFamilieleden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/indexOefening01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/indexOefening03.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +20,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e1a7a10d-6f8b-4331-8e1d-b6114881279c" />
+        <option name="url" value="https://github.com/ItzLassie/EL-Webdevelopment.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="21zhzyeOmADg0sGoS9Bg25cdTDe" />
   <component name="ProjectViewState">
@@ -56,8 +70,18 @@
       <workItem from="1639555014254" duration="6313000" />
       <workItem from="1642540817107" duration="92000" />
       <workItem from="1644746207443" duration="31000" />
-      <workItem from="1644747634140" duration="236000" />
+      <workItem from="1644747634140" duration="479000" />
+      <workItem from="1645004271796" duration="4518000" />
+      <workItem from="1646049072075" duration="342000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1644748007371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644748007371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +98,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
