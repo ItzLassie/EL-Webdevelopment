@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/Oefening06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/indexOefening06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/OefeningSubstring.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/OefeningSubstring.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <workItem from="1644746207443" duration="31000" />
       <workItem from="1644747634140" duration="479000" />
       <workItem from="1645004271796" duration="4518000" />
-      <workItem from="1646049072075" duration="1019000" />
+      <workItem from="1646049072075" duration="2065000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1644748007371</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646049910361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1646050348706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646050348706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
