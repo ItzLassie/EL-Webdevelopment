@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/OefeningSubstring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Oefening Arrays/OefeningSubstring.js" afterDir="false" />
+    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="oefening substring">
+      <change afterPath="$PROJECT_DIR$/Javascript/Colorpicker/ColorpickerCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Colorpicker/ColorpickerJavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Colorpicker/indexColorpicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht paragrafen/ParagrafenCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht paragrafen/ParagrafenScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht paragrafen/indexParagrafen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht producten/ProductenCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht producten/ProductenJavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht producten/indexProducten.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -40,7 +48,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Web development/demonstratie slider/demonstratie slider/styles/styles.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -67,7 +76,10 @@
       <workItem from="1644746207443" duration="31000" />
       <workItem from="1644747634140" duration="479000" />
       <workItem from="1645004271796" duration="4518000" />
-      <workItem from="1646049072075" duration="2065000" />
+      <workItem from="1646049072075" duration="2489000" />
+      <workItem from="1646815042259" duration="2357000" />
+      <workItem from="1646818166374" duration="5297000" />
+      <workItem from="1647369245600" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1644748007371</created>
@@ -97,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646050348706</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="oefening substring">
+      <created>1646051429115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646051429115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="oefening substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="oefening substring" />
   </component>
 </project>
