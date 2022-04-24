@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="update index pagina">
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht Gemeentes/gemeentesJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht Gemeentes/indexGemeentes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht Strings vergelijken/StringsVergelijkenJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht Strings vergelijken/indexStringsVergelijken.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht formvalidatie/formvalidatieJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht formvalidatie/indexFormvalidatie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht formwaarden/formwaardenJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Opdracht formwaarden/indexFormwaarden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/DOM-tree nodes/TreeNodesJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/DOM-tree nodes/indexTreeNodes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexNodes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/nodesJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/opdracht2JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/opdracht3JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Memory/indexMemory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Memory/scriptMemory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Memory/styleMemory.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/index.html" afterDir="false" />
     </list>
@@ -21,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Web development/Testje(1)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,7 +91,11 @@
       <workItem from="1647769979412" duration="2009000" />
       <workItem from="1648022816602" duration="13000" />
       <workItem from="1648028696703" duration="4071000" />
-      <workItem from="1648578150478" duration="1741000" />
+      <workItem from="1648578150478" duration="1830000" />
+      <workItem from="1648625846000" duration="7370000" />
+      <workItem from="1650437822158" duration="2121000" />
+      <workItem from="1650440385018" duration="3750000" />
+      <workItem from="1650792181482" duration="2023000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1644748007371</created>
@@ -201,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648030065811</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update index pagina">
+      <created>1648579985536</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648579985536</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
