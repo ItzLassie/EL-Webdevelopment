@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="update index pagina">
-      <change afterPath="$PROJECT_DIR$/Javascript/DOM-tree nodes/TreeNodesJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/DOM-tree nodes/indexTreeNodes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexNodes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/indexOpdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/nodesJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/opdracht2JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Extra oef Nodes/opdracht3JS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Memory/indexMemory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Memory/scriptMemory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Memory/styleMemory.css" afterDir="false" />
+    <list default="true" id="cd358e42-1368-4c60-b17c-c2a46f6b9601" name="Changes" comment="opdrachten hit an object en memory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +54,16 @@
       <recent name="C:\Users\LOKAALµ\OneDrive - Hogeschool VIVES\Documenten\GitHub\EL-Webdevelopment\Javascript\Rekenmachine" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/EL-Webdevelopment/Javascript/HitAnObject/BeginSituatie_HitAnObject/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +92,8 @@
       <workItem from="1648625846000" duration="7370000" />
       <workItem from="1650437822158" duration="2121000" />
       <workItem from="1650440385018" duration="3750000" />
-      <workItem from="1650792181482" duration="2023000" />
+      <workItem from="1650792181482" duration="2151000" />
+      <workItem from="1650794464666" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1644748007371</created>
@@ -216,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648579985536</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="opdrachten hit an object en memory">
+      <created>1650794333964</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1650794333964</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +246,7 @@
     <MESSAGE value="upload oefeningen" />
     <MESSAGE value="update indexpagina javascript" />
     <MESSAGE value="update index pagina" />
-    <option name="LAST_COMMIT_MESSAGE" value="update index pagina" />
+    <MESSAGE value="opdrachten hit an object en memory" />
+    <option name="LAST_COMMIT_MESSAGE" value="opdrachten hit an object en memory" />
   </component>
 </project>
